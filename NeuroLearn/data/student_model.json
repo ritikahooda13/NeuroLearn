@@ -1,0 +1,80 @@
+{
+  "mastery": {
+    "Variables & Data Types": 0.7179389221556887,
+    "Control Flow": 0.22,
+    "Functions": 0.22,
+    "Object Oriented Programming": 0.22,
+    "Data Structures - Arrays": 0.22,
+    "Data Structures - Linked Lists": 0.22,
+    "Sorting Algorithms": 0.22,
+    "Searching Algorithms": 0.22,
+    "Recursion": 0.22,
+    "Dynamic Programming": 0.22,
+    "Neural Networks Basics": 0.22,
+    "Backpropagation": 0.22,
+    "CNNs": 0.22,
+    "Transformers": 0.22,
+    "Attention Mechanism": 0.22
+  },
+  "attempts": {
+    "Variables & Data Types": 1,
+    "Control Flow": 0,
+    "Functions": 0,
+    "Object Oriented Programming": 0,
+    "Data Structures - Arrays": 0,
+    "Data Structures - Linked Lists": 0,
+    "Sorting Algorithms": 0,
+    "Searching Algorithms": 0,
+    "Recursion": 0,
+    "Dynamic Programming": 0,
+    "Neural Networks Basics": 0,
+    "Backpropagation": 0,
+    "CNNs": 0,
+    "Transformers": 0,
+    "Attention Mechanism": 0
+  },
+  "correct": {
+    "Variables & Data Types": 1,
+    "Control Flow": 0,
+    "Functions": 0,
+    "Object Oriented Programming": 0,
+    "Data Structures - Arrays": 0,
+    "Data Structures - Linked Lists": 0,
+    "Sorting Algorithms": 0,
+    "Searching Algorithms": 0,
+    "Recursion": 0,
+    "Dynamic Programming": 0,
+    "Neural Networks Basics": 0,
+    "Backpropagation": 0,
+    "CNNs": 0,
+    "Transformers": 0,
+    "Attention Mechanism": 0
+  },
+  "last_practiced": {
+    "Variables & Data Types": "2026-11-09T15:30:03.279488",
+    "Control Flow": null,
+    "Functions": null,
+    "Object Oriented Programming": null,
+    "Data Structures - Arrays": null,
+    "Data Structures - Linked Lists": null,
+    "Sorting Algorithms": null,
+    "Searching Algorithms": null,
+    "Recursion": null,
+    "Dynamic Programming": null,
+    "Neural Networks Basics": null,
+    "Backpropagation": null,
+    "CNNs": null,
+    "Transformers": null,
+    "Attention Mechanism": null
+  },
+  "history": [
+    {
+      "concept": "Variables & Data Types",
+      "correct": true,
+      "difficulty": 0.5,
+      "mastery_after": 0.7179389221556887,
+      "timestamp": "2026-11-09T15:30:03.279515"
+    }
+  ],
+  "updated_at": "2026-11-09T15:30:03.280904"
+}
